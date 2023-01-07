@@ -1,5 +1,5 @@
 status  = integer optimal solution
-time    = 0.047 s.
+time    = 2.359 s.
 problem = MILP
 gap     = 0%
 
