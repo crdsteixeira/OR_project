@@ -1,5 +1,5 @@
-status  = integer optimal, tolerance
-time    = 2.156 s.
+status  = integer optimal solution
+time    = 0.484 s.
 problem = MILP
-gap     = 6.20447e-06%
+gap     = 0%
 
