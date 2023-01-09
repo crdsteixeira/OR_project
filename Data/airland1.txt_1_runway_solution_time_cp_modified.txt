@@ -1,1 +1,1 @@
-run_time=1.068
+run_time=0.661
